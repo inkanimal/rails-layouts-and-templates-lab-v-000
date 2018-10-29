@@ -1,4 +1,4 @@
-class StoreAdminController < AppliationController 
+class StoreAdminController < ApplicationController 
   
   def admin 
   end 
